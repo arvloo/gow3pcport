@@ -1,4 +1,4 @@
-# God-of-War-III-Remastered-PC-Port
+# gow3pcport
 This is a torrent file for God of War III Remastered PC Port repacked.
 
 Download, Run the setup and choose where to install. Just click next until it starts installing.
