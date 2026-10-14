@@ -9,4 +9,4 @@ NOTE:You may encounter some bugs while playing the game, which is normal because
 To update the launcher to the latest version, click the "Check for Updates" button in the "Advanced" tab of the GoW Launcher. The launcher will update if a new version is available.
 
 CTTO:FelipePrado0
-A huge thanks for porting the game in pc!
+A huge thanks for the people that worked on porting the game on pc!
